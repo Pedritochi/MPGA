@@ -36,5 +36,6 @@ MPGA takes any valid **YouTube video URL**, extracts the best audio stream via `
 
 ```bash
 python mpga.py
+```bash
 
 > _Or download the .exe version
