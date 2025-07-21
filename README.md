@@ -17,7 +17,7 @@ MPGA takes any valid **YouTube video URL**, extracts the best audio stream via `
 
 ## 🖼️ UI Preview
 
-> _(Sample aesthetic demo – actual app may vary)_
+
 
 (![MPGA Screenshot](resources/resource1.png)
 
