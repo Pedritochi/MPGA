@@ -32,11 +32,16 @@ MPGA takes any valid **YouTube video URL**, extracts the best audio stream via `
 
 ---
 
-```markdown
 ## 🛠️ How to Run
 
-Run it with Python:
+You can run this app in two ways:
+
+### ▶️ Using Python
+
+Make sure you have [yt-dlp](https://github.com/yt-dlp/yt-dlp) installed and then run:
 
 ```bash
+python mpga.py
+```
 
-> _Or download the .exe version
+### 📀 Or download the `.exe` version
