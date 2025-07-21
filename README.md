@@ -1,8 +1,8 @@
 # 🎵 MPGA – Media Player Great Again 🎵
 
-A clean, nostalgic Windows GUI app to **stream audio from YouTube** directly into **Windows Media Player**, built with Python and `yt-dlp`.
+## A clean, nostalgic Windows GUI app to **stream audio from YouTube** directly into **Windows Media Player**, built with Python and `yt-dlp`.
 
-[Direct Download] (https://github.com/Pedritochi/MPGA/releases/download/0.1/MPGA_Portable.exe)
+### Direct Download (https://github.com/Pedritochi/MPGA/releases/download/0.1/MPGA_Portable.exe)
 
 Made by **Pedritochi ^_^**  
 Stylized with a touch of **Frutiger Aero** aesthetic ✨
