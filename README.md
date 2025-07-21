@@ -5,7 +5,7 @@ A clean, nostalgic Windows GUI app to **stream audio from YouTube** directly int
 Made by **Pedritochi ^_^**  
 Stylized with a touch of **Frutiger Aero** aesthetic ✨
 
-![Frutiger Aero Vibes](https://media.tenor.com/SGVoEwt4VQ4AAAAC/windows-xp.gif)
+![Frutiger Aero Vibes](https://media1.tenor.com/m/3zXpgzH1Y6cAAAAd/frutiger-aero.gif)
 
 ---
 
@@ -23,17 +23,7 @@ MPGA takes any valid **YouTube video URL**, extracts the best audio stream via `
 
 ---
 
-## 🚀 Features
-
-- 🪄 Clean and rounded interface (Frutiger Aero-inspired)
-- 🎧 Streams high-quality audio (128kbps+)
-- 👀 No terminal required — simple GUI
-- 🍬 Fun status messages and friendly styling
-- ☔ Animated background with soft falling bubbles
-
----
-
-## 🔧 Requirements
+## 🔧 Requirements (Python Version)
 
 - Python 3.7+
 - [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) installed (`pip install yt-dlp`)
