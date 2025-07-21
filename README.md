@@ -1,4 +1,4 @@
-# 🎵 MPGA – Media Player GUI Audio 🎵
+# 🎵 MPGA – Media Player Great Again 🎵
 
 A clean, nostalgic Windows GUI app to **stream audio from YouTube** directly into **Windows Media Player**, built with Python and `yt-dlp`.
 
